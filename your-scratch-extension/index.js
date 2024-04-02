@@ -18,7 +18,7 @@ class Scratch3YourExtension {
     getInfo () {
         return {
             // unique ID for your extension
-            id: 'yourScratchExtension1',
+            id: 'yourScratchExtension01',
 
             // name that will be displayed in the Scratch UI
             name: 'Helloworld Extension from Pre-Project',
